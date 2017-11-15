@@ -1,0 +1,29 @@
+*{
+    color:whitesmoke;
+    font-family: inherit;
+    text-align: center;
+    
+
+}
+
+#calculadora{
+    background-color: #24292e;
+    padding: 10px;
+    border-radius: 10px;
+    height: 200px;
+    width: 500px;
+    
+    
+}
+
+input{
+    color:forestgreen;
+}
+
+.resultado{
+    color: aquamarine;
+}
+
+h2{
+    
+}
